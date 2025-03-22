@@ -1,6 +1,6 @@
 
 // API用プレフィックス指定
-var prefix = 'http://www.sparqlbuilder.org';
+var prefix = 'https://www.sparqlbuilder.org';
 
 
 // 描画系定数
